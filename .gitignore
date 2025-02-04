@@ -3,4 +3,4 @@
 
 # Ignore .env file (for sensitive data like API keys)
 .env
-.env
+
